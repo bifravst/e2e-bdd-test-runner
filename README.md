@@ -1,3 +1,6 @@
+> **:truck: moved to https://github.com/NordicSemiconductor/cloud-e2e-bdd-test-runner-js**  
+> :information_source: [more info](https://github.com/bifravst/bifravst/issues/56)
+
 # End-to-end Behaviour Driven Design Test Runner [![npm version](https://img.shields.io/npm/v/@bifravst/e2e-bdd-test-runner.svg)](https://www.npmjs.com/package/@bifravst/e2e-bdd-test-runner)
 
 [![GitHub Actions](https://github.com/bifravst/e2e-bdd-test-runner/workflows/Test%20and%20Release/badge.svg)](https://github.com/bifravst/e2e-bdd-test-runner/actions)
